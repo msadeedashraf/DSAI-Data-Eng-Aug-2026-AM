@@ -36,6 +36,3 @@
 [3](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/16-optimize-semantic-model-performance.html)
 
 
-## Lab 4 
-
-[4](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/30-prepare-model-ai.html)
