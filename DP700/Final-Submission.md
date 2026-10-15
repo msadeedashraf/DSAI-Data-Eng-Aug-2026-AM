@@ -1,4 +1,4 @@
-## DP600 Assignment
+## DP700 Assignment
 
 ## Use Delta Tables in Apache Spark
 [Lab-1](https://microsoftlearning.github.io/mslearn-fabric/Instructions/Labs/03-delta-lake.html)

@@ -1,0 +1,6 @@
+Total Sales = SUM(fact_sales[sales_amount])
+Total Orders = DISTINCTCOUNT(fact_sales[order_id])
+Total Customers = DISTINCTCOUNT(fact_sales[customer_id])
+Total Quantity = SUM(fact_sales[quantity])
+Average Order Value = DIVIDE([Total Sales], [Total Orders])
+Sales Per Customer = DIVIDE([Total Sales], [Total Customers])

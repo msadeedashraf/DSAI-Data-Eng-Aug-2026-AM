@@ -1,0 +1,16 @@
+[
+  {
+    "return_id": 9001,
+    "order_id": 1002,
+    "return_date": "2026-05-03",
+    "return_reason": "Damaged item",
+    "refund_amount": 700.0
+  },
+  {
+    "return_id": 9002,
+    "order_id": 1008,
+    "return_date": "2026-05-04",
+    "return_reason": "Customer changed mind",
+    "refund_amount": 900.0
+  }
+]

@@ -1,0 +1,6 @@
+product_id  store_id  stock_qty   reorder_lvl   snapshot_date  
+101         1         12          5             2026-05-01     
+102         1         8           4             2026-05-01     
+103         2         15          5             2026-05-01     
+104         2         4           5             2026-05-01     
+105         3         20          6             2026-05-01     
